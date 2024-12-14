@@ -4,5 +4,6 @@ I am currently pursuing my Masters Degree at Northeastern University in Boston.
 
 Feel free to contact me at:
 iamkunjjoshi@gmail.com
+
 joshi.kun@northeastern.edu
 
