@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Kunj Joshi
-- 👀 I’m interested in Cyber Security and Machine Learning
-- 🌱 I’m currently learning Port Scanning
-- 💞️ I’m looking to collaborate on all kinds of projects
-- 📫 How to reach me: Email me at iamkunjjoshi@gmail.com
+Interested individual in the field of Generative AI and Deep Learning with a focus on research and development of new models and tools that can help creation of ML pipelines and their deployment easier, less time consuming and less memory consuming. I am also interested in working on the use cases of Machine Learning and Deep Learning in Cybersecurity and how ML can prevent and detect attacks from happening. I have worked extensively in Machine Learning, Artificial Intelligence, Data Science, Deep Learning, Penetration Testing, Malware Analysis and Network Administration and Analysis and open to ideas of development and research in the fields
 
-<!---
-KunjJoshi/KunjJoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently pursuing my Masters Degree at Northeastern University in Boston.
+
+Feel free to contact me at:
+iamkunjjoshi@gmail.com
+joshi.kun@northeastern.edu
+
