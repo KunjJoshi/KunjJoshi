@@ -16,12 +16,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I'm currently working on **LocuSearch**
+- 🔭 I'm currently working on **Associative Memorization Attacks in LLMs**
 - 🌱 I'm currently learning **FastAPI and ReactJS**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 🤔 I'm looking for help with **Frontend Designing**
 - 💬 Ask me about **Python, Java, ML, LLMs, Artificial Intelligence, Cybersecurity**
-- ⚡ Fun fact: **Boston's Green Line is the oldest Subway system in USA. Still it has less chances of breaking down than Boston's Orange Line: Boston's latest Subway System.**
+- ⚡ Fun fact: **Boston's best public spot - The Boston Commons, used to be public execution grounds in the 1600s**
 
 <br clear="right"/>
 
